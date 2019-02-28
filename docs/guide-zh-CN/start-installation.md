@@ -156,7 +156,7 @@ php yii serve --port=8888
 安装完成后，就可以使用浏览器通过如下 URL 访问刚安装完的 Yii 应用了：
 
 ```
-http://localhost:8080/
+http://localhost:8888/
 ```
 
 ![Yii 安装成功](images/start-app-installed.png)
